@@ -6,6 +6,7 @@
 - 💬 Ask me about **React, gsap, React-Native, P5.js**
 
 - 📫 How to reach me **azharuddinmohammed998@gmail.com**
+![](https://komarev.com/ghpvc/?username=MrAzharuddin&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
