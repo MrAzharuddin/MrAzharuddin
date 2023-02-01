@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Appstek Corp**
 
-- 💬 Ask me about **React, gsap, React-Native, P5.js**
+- 💬 Ask me about **React, gsap, React-Native, Svelte, Go, NextJS, TailwindCSS, Node, MongoDB**
 
 - 📫 How to reach me **azharuddinmohammed998@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=MrAzharuddin&style=flat-square)
