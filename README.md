@@ -4,7 +4,7 @@
 
 I'm currently working at Appstek Corp as a Fullstack developer. I have 3+ years of experience in building and maintaining web applications using React, Next.js, TailwindCSS, Node.js, MongoDB, and gRPC. I'm also proficient in Docker and Kubernetes.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrAzharuddin)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrAzharuddin&theme=merko)](https://git.io/streak-stats)
 
 **Ask Me About:**
 
