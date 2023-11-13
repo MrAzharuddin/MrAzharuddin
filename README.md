@@ -26,5 +26,5 @@ I'm currently working at Appstek Corp as a Fullstack developer. I have 3+ years 
 **Languages and Tools:**
 
 * **Front-end development:** React, Next.js, TailwindCSS, HTML, CSS, JavaScript
-* **Back-end development:** Node.js, MongoDB, gRPC, Express.js, Koa.js
+* **Back-end development:** Node.js, MongoDB, gRPC, Express.js, PostgreSQL, golang, Cassandra
 * **Cloud computing:** Docker, Kubernetes, AWS, Azure, GCP
