@@ -20,11 +20,11 @@ I'm currently working at Appstek Corp as a Fullstack developer. I have 3+ years 
 **How to Reach Me:**
 
 * Email: azharuddinmohammed998@gmail.com
-* LinkedIn: [LinkedIn profile link]
-* GitHub: [GitHub profile link]
+* LinkedIn: https://www.linkedin.com/in/azar-m-/
+* GitHub: https://github.com/MrAzharuddin/
 
 **Languages and Tools:**
 
 * **Front-end development:** React, Next.js, TailwindCSS, HTML, CSS, JavaScript
 * **Back-end development:** Node.js, MongoDB, gRPC, Express.js, PostgreSQL, golang, Cassandra
-* **Cloud computing:** Docker, Kubernetes, AWS, Azure, GCP
+* **Cloud computing:** Docker, Kubernetes, AWS
