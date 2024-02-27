@@ -4,6 +4,8 @@
 
 I'm Azharuddin, a passionate and skilled full-stack developer from India with a strong track record of building and maintaining robust web applications. I'm proficient in various technologies, including React, Next.js, TailwindCSS, Node.js, MongoDB, gRPC, Docker, and Kubernetes. I'm constantly learning and refining my skills to stay ahead of the curve and deliver exceptional solutions.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAzharuddin&layout=compact)
+
 **My Stats:**
 
 * **3+ years of experience** crafting web applications
